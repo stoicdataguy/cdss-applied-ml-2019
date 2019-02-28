@@ -2,7 +2,7 @@
 
 Hi Everyone,
 
-![Workshop Poster](/fig/worskshop_poster.jpg)
+![Workshop Poster](/fig/workshop_poster.jpg)
 
 This is the notebook from the [Columbia Data Science Society's](https://www.facebook.com/cdsscu/) Workshop on [**Applied Machine Learning**](https://www.facebook.com/events/247226822888651/).
 
