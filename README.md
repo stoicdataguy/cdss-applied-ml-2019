@@ -60,11 +60,19 @@ The content of this talk is motivated from the two classes, I am taking this sem
     - SHAP Values
 
 #### 06 Resources
-  - Kaggle: Regression Challenge ( House Prices )
-  - Kaggle: Machine Learning Explainability
+  - Kaggle: Regression Challenge ( House Prices ): https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+  - Kaggle: Machine Learning Explainability: https://www.kaggle.com/learn/machine-learning-explainability
   - Categorical Data Plotting: https://seaborn.pydata.org/tutorial/categorical.html
   - Continous Data Plotting: https://seaborn.pydata.org/tutorial/distributions.html#plotting-univariate-distributions
-
+  - sklearn: https://scikit-learn.org/stable/
+  - xgboost: https://xgboost.readthedocs.io/en/latest/
+  - yellowbrick: https://www.scikit-yb.org/en/latest/index.html
+  - skopt: https://scikit-optimize.github.io
+  - bayesianopt: https://github.com/fmfn/BayesianOptimization
+  - hyperopt:https://github.com/hyperopt/hyperopt
+  - eli5: https://eli5.readthedocs.io/en/latest/index.html
+  - shap: https://github.com/slundberg/shap
+  
 #### 07 Quick Tips
   - Code Breaks: Library Version , pip/ conda upgrade -> virualenv
   - Visualising High Dimensional Data: Principal Component Analysis
