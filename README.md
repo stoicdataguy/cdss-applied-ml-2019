@@ -51,7 +51,7 @@ Prof. John Paisley. He also teaches a course on [**Machine Learning**](https://w
     - 4.2.1 : Problem Description
     - 4.2.2 : Possible Solutions ( Under and Over Sampling, Loss Fucntions )
 
-**Q: What is better Type-I or Type II error ( a.k.a. False Positives and False Negatives ) ? **
+> Q: What is better Type-I or Type II error ( a.k.a. False Positives and False Negatives ) ? 
 
 #### 05 Model Explanability
   - Feature Importance  
