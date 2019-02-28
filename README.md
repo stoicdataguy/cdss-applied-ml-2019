@@ -26,6 +26,9 @@ The content of this talk is motivated from the two classes, I am taking this sem
   - 1.4 : Feature Engineering
     - Polynomial Featues
     - Label Encodings
+ 
+> Q: How do you clean your data and look for patterns ?
+
 #### 02 Models: [10%] 
   - 2.1 : Linear Regression: l1, l2, elastic net
   - 2.2 : Logistic Regression
@@ -33,6 +36,8 @@ The content of this talk is motivated from the two classes, I am taking this sem
     - 2.3.1: Random Forest
     - 2.3.2: Bagging
     - 2.3.3: Gradient Boosting: xgboost ( others: lightgbm,  catboost)
+
+> Q: What are the two main class of machine learning models?
 
 #### 03 Model Evaluation and Improvement ( aka Parmeter Tuning ) [20%]
   - 3.1 : Metrics: Accuracy, Precision, Recall, F-Score , [ MAPE ( forecasting ) ]
@@ -58,6 +63,7 @@ The content of this talk is motivated from the two classes, I am taking this sem
   - XGBoost Feature Importance
   - New Stuff: Impact of Individual Predictions
     - SHAP Values
+> Q: How do you find out which features are the most important ?
 
 #### 06 Resources
   - Kaggle: Regression Challenge ( House Prices ): https://www.kaggle.com/c/house-prices-advanced-regression-techniques
