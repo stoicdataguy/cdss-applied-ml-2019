@@ -4,7 +4,7 @@
 
 This is the notebook from the [Columbia Data Science Society's](https://www.facebook.com/cdsscu/) Workshop on [**Applied Machine Learning**](https://www.facebook.com/events/247226822888651/).
 
-**Presented by:** Akhil Punia, MS Data Science ( 2019 )
+**Presented by:** Akhil Punia, MS Data Science (2019)
 
 ## Acknowledgement
 The content of this talk is motivated from the two classes, I am taking this semester at Columbia Data Science Institute.
