@@ -23,7 +23,7 @@ The content of this talk is motivated from the two classes, I am taking this sem
 
 3. Click on **Connect** on the upper right hand corner. And off you go.
 
-![ Notebook](/fig/baisc_nb.png)
+![Baic Notebook View](/fig/basic_nb.png)
 
 ## Basic Outline of the Notebook
 
