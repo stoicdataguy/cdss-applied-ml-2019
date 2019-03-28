@@ -1,3 +1,5 @@
+> **Update:** Section 5 of this talk concerning Model Explainability and Interpretability  were also covered in the Kaggle NYC Deliotte Meetup held on 03/27/19 at Deliotte Digital. 
+
 # Applied Machine Learning Workshop, 02/28/2019
 
 ![Workshop Poster](/fig/workshop_poster.jpg)
